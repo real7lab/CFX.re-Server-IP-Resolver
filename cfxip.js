@@ -13,6 +13,8 @@ const i = readline.createInterface({
     output: process.stdout
 });
 
+
+// Main
 function repeat() {
     i.question("Please input the server's CFX.re address (e.g., cfx.re/join/yyyyyy or yyyyyy): ", async (input) => {
         let firstUrl;
