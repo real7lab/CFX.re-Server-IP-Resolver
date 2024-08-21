@@ -15,7 +15,7 @@ const i = readline.createInterface({
 
 
 // Main
-function repeat() {
+function executerequest() {
     i.question("Please input the server's CFX.re address (e.g., cfx.re/join/yyyyyy or yyyyyy): ", async (input) => {
         let firstUrl;
         let formattedUrl;
@@ -42,8 +42,8 @@ function repeat() {
 
         console.log("\x1bNote: If you have questions or issues you can add me on Discord 'real7lab'.\x1b\n");
 
-        repeat(); 
+        executerequest(); 
     });
 }
 
-repeat();
+executerequest();
