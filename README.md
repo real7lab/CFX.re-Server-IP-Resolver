@@ -7,7 +7,7 @@
 ### Developed by
 
 - **real7lab**
-- [Discord Server]([https://discord.gg/visionn](https://discord.gg/FzCpzcRnrz))
+- [Discord Server](https://discord.gg/FzCpzcRnrz)
 
 ## Features
 
